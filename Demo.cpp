@@ -19,7 +19,7 @@
 #include <filesystem>
 #include "Deps/Camera.h"
 #define STBI_FAILURE_USERMSG
-#include "../assimp/include/assimp/DefaultLogger.hpp"
+#include "assimp/DefaultLogger.hpp"
 #include "Deps/stb_image.h"
 #include "glm/gtc/quaternion.hpp"
 #include "glm/gtx/quaternion.hpp"
