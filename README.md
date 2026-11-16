@@ -24,6 +24,7 @@ Pirates Opengl Renderer is the Opengl API Renderer of A closed source project Pi
 - [ ] Terrain Rendering(And Tessellation shader pipeline).
 
 ## 💫How To Support
-**Financial is the best way to support the project since I'm currently working with a potato pc, alongside with contributing to the project**
-*Other types of support are also really appreciated*
+**Financial is the best way to support the project since I'm currently working with a potato pc, alongside with contributing to the project.**
+*Other types of support are also really appreciated.*
+
 ## Screenshots
