@@ -29,6 +29,9 @@ Pirates Opengl Renderer is the Opengl API Renderer of A closed source project Pi
 *Other types of support are also really appreciated.*
 
 ## Screenshots
+
 ![Uploading Pirates_With_32_lights.png…]()
+
 ![Uploading Adams_Head_different_view.png…]()
+
 <img width="1920" height="1011" alt="Adams_Head" src="https://github.com/user-attachments/assets/f63a7628-985a-48ed-b24c-383dc409573c" />
