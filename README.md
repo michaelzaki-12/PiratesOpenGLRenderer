@@ -36,4 +36,4 @@ Pirates Opengl Renderer is the Opengl API Renderer of A closed source project Pi
 <img width="1920" height="1011" alt="Adams_Head_different_view" src="https://github.com/user-attachments/assets/4716da40-066a-400a-b4c2-668f89c04b8a" />
 
 ## Benchmark
-**Tested On linux, 16GB of RAM., Ryzen7 2700u, integrated gpu vega 10** 
+**Tested On linux, 16GB of RAM, Ryzen7 2700u, integrated gpu vega 10** 
