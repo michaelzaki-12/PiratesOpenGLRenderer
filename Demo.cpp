@@ -602,10 +602,6 @@ int main()
     glViewport(0, 0, Width, Height);
 
     std::vector<PointLight> pointlight;
-    glm::vec3 lightPos(0.0f, 1.0f, -2.5f);
-    glm::vec3 lightPos1(2.0f, 1.0f, 1.0f);
-    glm::vec3 lightColors1(glm::vec4(glm::vec3(15.0f), 1.0f));
-    glm::vec3 lightColors2(glm::vec4(5.0f, 0.0f, 0.0f ,1.0f));
     float constant = 1.0;
     float linear = 0.09f;
     float quadratic = 0.032f;
@@ -613,7 +609,7 @@ int main()
     std::vector<glm::vec3> LIGHTPOSITIONS;
     std::vector<glm::vec3> LIGHTCOLORS;
 
-    for (unsigned int i = 0; i < 10; i++)
+    for (unsigned int i = 0; i < 32; i++)
     {
         // calculate slightly random offsets
         float xPos = static_cast<float>(((rand() % 100) / 100.0) * 6.0 - 3.0);
