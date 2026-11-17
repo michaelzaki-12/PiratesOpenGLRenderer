@@ -1,11 +1,11 @@
 # PiratesOpenGLRenderer
 
-Pirates Opengl Renderer is the Opengl API Renderer of A closed source project Pirates Engine, The Aim of this Renderer is to provide The most Performant, cross platform, easy to use and mature renderer ready to use in real time applications with the best quality with the most reliable fps.
+Pirates Opengl Renderer is the Opengl API Renderer of A closed source project Pirates Engine, The Aim of this Renderer is to provide The most Performant, cross platform, easy to use and mature renderer ready to use in real time applications with the best quality and the most reliable fps.
 
 > [!CAUTION]
-> Pirates Renderer is still in early development, There is some mature parts But overall there is a lot of work to do, so be aware that if you want to use or modify it for your needs you will have to do some good amount of work!
+> Pirates Renderer is still in early development, There are some mature parts But overall there is a lot of work to do, so be aware that if you want to use or modify it for your needs you will have to do some good amount of work!
 
-## 🌟What Pirates Opengl Renderer offer!
+## 🌟What Pirates Opengl Renderer offers!
 1. clustered Forward+ Rendering
 2. Support for optimized multiple shadows using cubemap arrays.
 3. Advance Model Loading Using assimp.
@@ -29,3 +29,4 @@ Pirates Opengl Renderer is the Opengl API Renderer of A closed source project Pi
 *Other types of support are also really appreciated.*
 
 ## Screenshots
+![Complicated Model Adams Head Using Pirates Renderer.](/Screenshots/Adams-Head-different-view.png)
