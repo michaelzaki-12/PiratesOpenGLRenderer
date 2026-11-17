@@ -5,7 +5,7 @@ Pirates Opengl Renderer is the Opengl API Renderer of A closed source project Pi
 > [!CAUTION]
 > Pirates Renderer is still in early development, There are some mature parts But overall there is a lot of work to do, so be aware that if you want to use or modify it for your needs you will have to do some good amount of work!
 
-## 🌟What Pirates Opengl Renderer offer!
+## 🌟What Pirates Opengl Renderer offers!
 1. clustered Forward+ Rendering
 2. Support for optimized multiple shadows using cubemap arrays.
 3. Advance Model Loading Using assimp.
